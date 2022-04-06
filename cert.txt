@@ -1,9 +1,14 @@
-metadatabbsb: XXXX tls.crt: 
-----beginning-----
-some-data
------ending----
-tls.key:
-----beginning----
-hdjskksjsjsj
-----ending----
-metadatabbsb: hhsbs
+data: map[tls.crt:-----BEGIN OPENSSH TESTCERT-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAABlwAAAAdzc2gtcn
+NhAAAAAwEAAQAAAYEA3Vj/hCKM1cedVjpoXXzG0RNc3DePhx7IbTtg0PYY5OU9PBuelW8C
+kEaw1mnoK59xPoPS/h4JP5EMg0J+kfTzuYmDoXBvHKB1LTUwfycPN80g7PB+lw/oG4mn1R
+vdIgGw/SqLQ3v9HuVUWXVdb/MPFz16tiKnqc9vexnvnjRxEi18Y83y6mo9FTuLOLAVSfX
+-----END OPENSSH TESTCERT---- tls.key:----------BEGIN OPENSSH TESTKEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAABlwAAAAdzc2gtcn
+NhAAAAAwEAAQAAAYEA3Vj/hCKM1cedVjpoXXzG0RNc3DePhx7IbTtg0PYY5OU9PBuelW8C
+kEaw1mnoK59xPoPS/h4JP5EMg0J+kfTzuYmDoXBvHKB1LTUwfycPN80g7PB+lw/oG4mn1R
+vdIgGw/SqLQ3v9HuVUWXVdb/MPFz16tiKnqc9vexnvnjRxEi18Y83y6mo9FTuLOLAVSfX8
+arCl5KTrsrLDRJGAGHQWAZnBn5JkK8ZUA4oAS7GWpxBExApf1eFiTw1hd3oQ8i6p0CC7ev
+VbMrby+o369DmaLKQJ6p+xlp88nKW4/RIiJltyS5w3z//ziqmJeXOYG6y2gksleYKiHKnE
+-----END OPENSSH TESTKEY-----]
+metadata:create time ahjdfihfiahdfihadihfadipfh
